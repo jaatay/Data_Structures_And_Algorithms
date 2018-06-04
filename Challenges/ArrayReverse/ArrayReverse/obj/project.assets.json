@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\ArrayReverse\\ArrayReverse\\ArrayReverse.csproj",
+      "projectUniqueName": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\Challenges\\ArrayReverse\\ArrayReverse\\ArrayReverse.csproj",
       "projectName": "ArrayReverse",
-      "projectPath": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\ArrayReverse\\ArrayReverse\\ArrayReverse.csproj",
+      "projectPath": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\Challenges\\ArrayReverse\\ArrayReverse\\ArrayReverse.csproj",
       "packagesPath": "C:\\Users\\Avatar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\ArrayReverse\\ArrayReverse\\obj\\",
+      "outputPath": "C:\\Users\\Avatar\\Source\\Repos\\Data_Structures_And_Algorithms\\Challenges\\ArrayReverse\\ArrayReverse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
