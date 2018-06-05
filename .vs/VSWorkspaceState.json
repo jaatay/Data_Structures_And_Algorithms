@@ -3,10 +3,8 @@
     "",
     "\\Assets",
     "\\Challenges",
-    "\\Challenges\\ArrayReverse",
-    "\\Challenges\\ArrayReverse\\ArrayReverse_Solution_Folder",
-    "\\Data_Structures"
+    "\\Challenges\\ArrayReverse"
   ],
-  "SelectedNode": "\\Challenges\\ArrayReverse\\ArrayReverse_Solution_Folder\\Program.cs",
+  "SelectedNode": "\\Challenges\\ArrayReverse",
   "PreviewInSolutionExplorer": false
 }
