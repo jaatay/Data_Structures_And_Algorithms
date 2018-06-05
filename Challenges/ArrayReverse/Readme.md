@@ -6,4 +6,4 @@ Example:
 InputArray[1, 2, 3, 4, 5] --> OutputArray[5, 4, 3, 2, 1]
 
 ## Solution
-![Array Reverse whiteboard image](../assets/ArrayReverse.jpg)
+![Array Reverse whiteboard image](../../assets/ArrayReverse.jpg)
