@@ -1,0 +1,11 @@
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.deps.json
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.runtimeconfig.json
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.runtimeconfig.dev.json
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.dll
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\bin\Debug\netcoreapp2.0\ArrayReverse.pdb
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.csprojAssemblyReference.cache
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.AssemblyInfoInputs.cache
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.AssemblyInfo.cs
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.dll
+C:\Users\Avatar\Source\Repos\Data_Structures_And_Algorithms\Challenges\ArrayReverse\ArrayReverse\obj\Debug\netcoreapp2.0\ArrayReverse.pdb
