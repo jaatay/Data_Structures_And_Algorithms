@@ -7,8 +7,9 @@
     "\\Challenges\\ArrayReverse\\ArrayReverse",
     "\\Challenges\\BinarySearch",
     "\\Challenges\\BinarySearch\\BinarySearch",
-    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch"
+    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest"
   ],
-  "SelectedNode": "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch",
+  "SelectedNode": "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
