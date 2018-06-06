@@ -3,10 +3,12 @@
     "",
     "\\Assets",
     "\\Challenges",
+    "\\Challenges\\ArrayReverse",
     "\\Challenges\\ArrayReverse\\ArrayReverse",
-    "\\Challenges\\ArrayReverse\\ArrayReverse\\bin",
-    "\\Challenges\\BinarySearch"
+    "\\Challenges\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch"
   ],
-  "SelectedNode": "\\Challenges\\BinarySearch",
+  "SelectedNode": "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch",
   "PreviewInSolutionExplorer": false
 }
