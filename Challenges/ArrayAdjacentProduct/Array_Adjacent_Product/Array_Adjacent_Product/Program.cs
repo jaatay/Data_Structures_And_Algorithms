@@ -6,7 +6,7 @@ namespace Array_Adjacent_Product
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Wolrd!");
         }
     }
 }
