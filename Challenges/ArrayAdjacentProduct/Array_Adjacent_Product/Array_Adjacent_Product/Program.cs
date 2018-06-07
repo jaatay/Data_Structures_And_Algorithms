@@ -48,7 +48,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductRight = 0;
+                        
                     }
 
                     try
@@ -61,7 +61,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductLeft = 0;
+                       
                     }
 
                     try
@@ -74,7 +74,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductUp = 0;
+                       
                     }
 
                     try
@@ -87,7 +87,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductDown = 0;
+                       
                     }
 
                     try
@@ -100,7 +100,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductUpRight = 0;
+                       
                     }
 
                     try
@@ -113,7 +113,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductDownRight = 0;
+                        
                     }
 
                     try
@@ -126,7 +126,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductUpLeft = 0;
+                       
                     }
 
                     try
@@ -139,7 +139,7 @@ namespace Array_Adjacent_Product
                     }
                     catch (IndexOutOfRangeException)
                     {
-                        ProductDownLeft = 0;
+                       
                     }
 
                     Console.WriteLine(TempScore);
