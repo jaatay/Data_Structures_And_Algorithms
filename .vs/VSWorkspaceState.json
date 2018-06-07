@@ -4,9 +4,10 @@
     "\\Assets",
     "\\Challenges",
     "\\Challenges\\ArrayReverse\\ArrayReverse",
-    "\\Challenges\\ArrayReverse\\ArrayReverse\\bin",
-    "\\Challenges\\BinarySearch"
+    "\\Challenges\\BinarySearch\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest"
   ],
-  "SelectedNode": "\\Challenges\\BinarySearch",
+  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct",
   "PreviewInSolutionExplorer": false
 }
