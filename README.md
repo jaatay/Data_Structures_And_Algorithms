@@ -4,4 +4,4 @@
 
 [Binary Search](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/BinarySearch)
 
-[Largest Adjacent Product(https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayAdjacentProduct)
+[Largest Adjacent Product](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayAdjacentProduct)
