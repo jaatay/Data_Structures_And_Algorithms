@@ -6,10 +6,8 @@ namespace Array_Adjacent_Product
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Wolrd!");
             AdjacentProduct(TestArray);
         }
-
 
         /// <summary>
         /// Static test array, values can be changed as desired.
@@ -21,7 +19,6 @@ namespace Array_Adjacent_Product
         /// </summary>
         /// <param name="InputArray"></param>
         /// <returns>int FinalScore</returns>
-       
        static int AdjacentProduct(int[,] InputArray)
         {
             int FinalScore = 0;
@@ -146,11 +143,9 @@ namespace Array_Adjacent_Product
                     catch (IndexOutOfRangeException)
                     {
                        
-                    }
-
-                    Console.WriteLine(TempScore);
-                    
+                    }   
                 }
+
                 FinalScore = TempScore;
             }
 

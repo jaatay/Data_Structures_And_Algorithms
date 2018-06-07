@@ -1,7 +1,7 @@
 # Data_Structures_And_Algorithms
 
-[Array Reverse](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayReverse)
+1. [Array Reverse](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayReverse)
 
-[Binary Search](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/BinarySearch)
+2. [Binary Search](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/BinarySearch)
 
-[Largest Adjacent Product](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayAdjacentProduct)
+3. [Largest Adjacent Product](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/ArrayAdjacentProduct)
