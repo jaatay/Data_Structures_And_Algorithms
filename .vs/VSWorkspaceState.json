@@ -3,11 +3,11 @@
     "",
     "\\Assets",
     "\\Challenges",
+    "\\Challenges\\ArrayAdjacentProduct",
+    "\\Challenges\\ArrayReverse",
     "\\Challenges\\ArrayReverse\\ArrayReverse",
-    "\\Challenges\\BinarySearch\\BinarySearch",
-    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearch",
-    "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest"
+    "\\Challenges\\ArrayReverse\\Array_Reverse"
   ],
-  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct",
+  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
