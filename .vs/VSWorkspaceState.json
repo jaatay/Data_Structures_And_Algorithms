@@ -5,10 +5,11 @@
     "\\Challenges",
     "\\Challenges\\ArrayAdjacentProduct",
     "\\Challenges\\ArrayAdjacentProduct\\Array_Adjacent_Product",
+    "\\Challenges\\ArrayAdjacentProduct\\Array_Adjacent_Product\\Array_Adjacent_Product",
     "\\Challenges\\ArrayReverse",
     "\\Challenges\\ArrayReverse\\ArrayReverse",
     "\\Challenges\\ArrayReverse\\Array_Reverse"
   ],
-  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct\\Array_Adjacent_Product\\Array_Adjacent_Product",
+  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct\\Array_Adjacent_Product\\Array_Adjacent_Product\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

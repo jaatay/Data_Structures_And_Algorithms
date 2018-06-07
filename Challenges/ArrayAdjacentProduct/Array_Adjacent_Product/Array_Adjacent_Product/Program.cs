@@ -10,12 +10,18 @@ namespace Array_Adjacent_Product
             AdjacentProduct(TestArray);
         }
 
-        static int[,] TestArray = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-        //1 9 1 i down j right
-        //50 1 6
-        //7 8 9
 
-        //main method
+        /// <summary>
+        /// Static test array, values can be changed as desired.
+        /// </summary>
+        static int[,] TestArray = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+       
+        /// <summary>
+        /// Method which takes an input array, and returns the highest product of 2 adjacent numbers.
+        /// </summary>
+        /// <param name="InputArray"></param>
+        /// <returns>int FinalScore</returns>
+       
        static int AdjacentProduct(int[,] InputArray)
         {
             int FinalScore = 0;
@@ -149,6 +155,8 @@ namespace Array_Adjacent_Product
             }
 
             Console.WriteLine($"The highest product is: {FinalScore}");
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadLine();
            
             return FinalScore;
         }
