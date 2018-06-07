@@ -3,6 +3,7 @@
     "",
     "\\Assets",
     "\\Challenges",
+<<<<<<< HEAD
     "\\Challenges\\ArrayReverse",
     "\\Challenges\\ArrayReverse\\ArrayReverse",
     "\\Challenges\\BinarySearch",
@@ -11,5 +12,13 @@
     "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest"
   ],
   "SelectedNode": "\\Challenges\\BinarySearch\\BinarySearch\\BinarySearchTest\\UnitTest1.cs",
+=======
+    "\\Challenges\\ArrayAdjacentProduct",
+    "\\Challenges\\ArrayReverse",
+    "\\Challenges\\ArrayReverse\\ArrayReverse",
+    "\\Challenges\\ArrayReverse\\Array_Reverse"
+  ],
+  "SelectedNode": "\\Challenges\\ArrayAdjacentProduct\\.gitignore",
+>>>>>>> Array_Adjacent_Product
   "PreviewInSolutionExplorer": false
 }
