@@ -6,22 +6,30 @@ namespace LinkedLists
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-			FirstLL();
+            
+			MakeLL();
 			
         }
 
-		static void FirstLL()
+		/// <summary>
+		/// method to make a linked list, print to screen, and find a selected value
+		/// </summary>
+		static void MakeLL()
 		{
-			LinkedList LL = new LinkedList(new Node(10));
+			LinkList LL = new LinkList(new Node(10));
 
 			LL.Add(new Node(15));
 			LL.Add(new Node(20));
 			LL.Add(new Node(25));
 			LL.Add(new Node(30));
+			
 
 			LL.Print();
-			LL.AddValues();
+			LL.Find(25);
+			
+			
 		}
+
+		
     }
 }
