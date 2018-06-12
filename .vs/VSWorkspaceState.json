@@ -3,9 +3,12 @@
     "",
     "\\Assets",
     "\\Challenges",
-    "\\Challenges\\ArrayReverse\\ArrayReverse",
-    "\\Challenges\\ArrayReverse\\Array_Reverse"
+    "\\Challenges\\LinkedList",
+    "\\Challenges\\LinkedList\\LinkedLists",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedListsTest",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes"
   ],
-  "SelectedNode": "\\Challenges\\LinkedList",
+  "SelectedNode": "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists.sln",
   "PreviewInSolutionExplorer": false
 }

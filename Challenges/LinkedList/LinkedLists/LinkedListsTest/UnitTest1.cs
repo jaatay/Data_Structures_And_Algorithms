@@ -10,7 +10,7 @@ namespace LinkedListsTest
         public void CanAddNode()
         {
 			//arrange
-			LinkedList testLL = new LinkedList(new Node(4));
+			LinkList testLL = new LinkList(new Node(4));
 			Node node = new Node(8);
 			Node node2 = new Node(15);
 
@@ -29,7 +29,7 @@ namespace LinkedListsTest
 		public void CanFindNodeThatExists(int value, int expected)
 		{
 			//arrange
-			LinkedList testLL = new LinkedList(new Node(4));
+			LinkList testLL = new LinkList(new Node(4));
 			Node node = new Node(8);
 			Node node2 = new Node(15);
 			Node node3 = new Node(16);
@@ -51,7 +51,7 @@ namespace LinkedListsTest
 		public void ReturnsNullForNodeThatDoesNotExist(int value)
 		{
 			//arrange
-			LinkedList testLL = new LinkedList(new Node(4));
+			LinkList testLL = new LinkList(new Node(4));
 			Node node = new Node(8);
 			Node node2 = new Node(15);
 			Node node3 = new Node(16);
@@ -66,5 +66,6 @@ namespace LinkedListsTest
 			//assert
 			Assert.Null(found);
 		}
+
     }
 }
