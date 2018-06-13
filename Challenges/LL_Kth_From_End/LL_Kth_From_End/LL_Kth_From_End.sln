@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LL_Kth_From_End", "LL_Kth_From_End\LL_Kth_From_End.csproj", "{26F8AC65-94EC-432B-8E49-C23E9C051944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth_Test", "Kth_Test\Kth_Test.csproj", "{82084242-60D5-4021-A14D-7412CA7A237A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26F8AC65-94EC-432B-8E49-C23E9C051944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F8AC65-94EC-432B-8E49-C23E9C051944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F8AC65-94EC-432B-8E49-C23E9C051944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F8AC65-94EC-432B-8E49-C23E9C051944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82084242-60D5-4021-A14D-7412CA7A237A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82084242-60D5-4021-A14D-7412CA7A237A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82084242-60D5-4021-A14D-7412CA7A237A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82084242-60D5-4021-A14D-7412CA7A237A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B553BAA5-717A-4949-BB48-7AC5AB64B8C8}
+	EndGlobalSection
+EndGlobal

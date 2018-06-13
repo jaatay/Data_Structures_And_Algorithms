@@ -3,12 +3,12 @@
     "",
     "\\Assets",
     "\\Challenges",
-    "\\Challenges\\LinkedList",
     "\\Challenges\\LinkedList\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedListsTest",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes"
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes",
+    "\\Challenges\\LL_Kth_From_End"
   ],
-  "SelectedNode": "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists.sln",
+  "SelectedNode": "\\Challenges\\LL_Kth_From_End\\readme.md",
   "PreviewInSolutionExplorer": false
 }
