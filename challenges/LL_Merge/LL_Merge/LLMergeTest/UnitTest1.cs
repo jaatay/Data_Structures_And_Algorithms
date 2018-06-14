@@ -31,10 +31,7 @@ namespace LL_Merge
 			LinkList LL1 = new LinkList(new Node(1));
 
 			LL1.Add(new Node(2));
-			LL1.Add(new Node(3));
-			LL1.Add(new Node(4));
-			LL1.Add(new Node(5));
-
+			
 			LinkList LL2 = new LinkList(new Node(6));
 
 			LL2.Add(new Node(7));
