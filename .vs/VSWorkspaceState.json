@@ -1,16 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assets",
     "\\Challenges",
-    "\\Challenges\\LinkedList",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes",
     "\\Challenges\\LL_Kth_From_End",
     "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End",
     "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\Kth_Test",
     "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End\\Classes"
+    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End\\Classes",
+    "\\Challenges\\LL_Merge",
+    "\\Challenges\\LL_Merge\\LL_Merge",
+    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge",
+    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge\\Classes"
   ],
+  "SelectedNode": "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
