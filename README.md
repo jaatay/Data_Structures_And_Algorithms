@@ -9,3 +9,5 @@
 4. [Linked List](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LinkedList)
 
 5. [Kth from End](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LL_Kth_From_End)
+
+6. [Linked List Merge](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LL_Merge/LL_Merge)
