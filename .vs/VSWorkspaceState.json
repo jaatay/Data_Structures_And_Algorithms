@@ -1,16 +1,22 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assets",
     "\\Challenges",
+    "\\Challenges\\BinarySearch",
+    "\\Challenges\\BinarySearch\\BinarySearch",
+    "\\Challenges\\LinkedList",
     "\\Challenges\\LinkedList\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedListsTest",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End\\Classes",
-    "\\Challenges\\Stack_and_Queue"
+    "\\Challenges\\LL_Merge",
+    "\\Challenges\\Stack_and_Queue",
+    "\\Challenges\\Stack_and_Queue\\StackAndQ",
+    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ",
+    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQTest",
+    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\Classes"
   ],
-  "SelectedNode": "\\Challenges\\Stack_and_Queue",
+  "SelectedNode": "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQTest",
   "PreviewInSolutionExplorer": false
 }
