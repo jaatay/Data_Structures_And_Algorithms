@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\LL_Merge\\LL_Merge",
-    "\\Challenges\\LL_Merge\\LL_Merge\\LLMergeTest",
-    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge"
+    "\\Challenges\\LinkedList",
+    "\\Challenges\\LinkedList\\LinkedLists",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedListsTest",
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes"
   ],
-  "SelectedNode": "\\Challenges\\LL_Merge",
+  "SelectedNode": "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists.sln",
   "PreviewInSolutionExplorer": false
 }

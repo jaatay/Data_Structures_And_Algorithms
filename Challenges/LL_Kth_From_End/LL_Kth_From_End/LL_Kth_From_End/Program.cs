@@ -8,6 +8,8 @@ namespace LL_Kth_From_End
         {
 			Console.WriteLine("Hello World");
 			NewLL();
+			Console.WriteLine("Press any key to exit");
+			Console.ReadLine();
         }
 
 		static void NewLL()
@@ -22,6 +24,8 @@ namespace LL_Kth_From_End
 
 			LL.Print();
 			LL.KthElement(2);
+			LL.KthElement(4);
+			LL.KthElement(6);
 
 
 		}
