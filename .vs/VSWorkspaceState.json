@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\LinkedList",
     "\\Challenges\\LinkedList\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
     "\\Challenges\\LinkedList\\LinkedLists\\LinkedListsTest",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes"
+    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes",
+    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End",
+    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End",
+    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End\\Classes",
+    "\\Challenges\\Stack_and_Queue"
   ],
-  "SelectedNode": "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists.sln",
+  "SelectedNode": "\\Challenges\\Stack_and_Queue",
   "PreviewInSolutionExplorer": false
 }
