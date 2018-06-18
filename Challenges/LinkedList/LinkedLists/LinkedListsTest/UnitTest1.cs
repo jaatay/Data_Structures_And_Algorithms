@@ -67,5 +67,44 @@ namespace LinkedListsTest
 			Assert.Null(found);
 		}
 
-    }
+		[Fact]
+		public void CanAddBefore()
+		{
+			//arrange
+			LinkList testLL = new LinkList(new Node(4));
+			Node node = new Node(8);
+			Node node2 = new Node(15);
+			Node node3 = new Node(1);
+
+			//act
+			testLL.Add(node);
+			testLL.Add(node2);
+			testLL.AddBefore(node3, node2);
+
+
+			//assert
+			Assert.Equal(testLL.Head.Value, node3.Value);
+		}
+
+		[Fact]
+		public void CanAddAfter()
+		{
+			//arrange
+			LinkList testLL = new LinkList(new Node(1));
+			Node node = new Node(2);
+			Node node2 = new Node(3);
+			Node node3 = new Node(4);
+
+			//act
+			testLL.Add(node);
+			testLL.Add(node2);
+			testLL.AddAfter(node3, node2);
+
+
+			//assert
+			Assert.Equal(2, node2.Next.Value);
+		}
+
+
+	}
 }

@@ -2,16 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\Kth_Test",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End",
-    "\\Challenges\\LL_Kth_From_End\\LL_Kth_From_End\\LL_Kth_From_End\\Classes",
-    "\\Challenges\\LL_Merge",
     "\\Challenges\\LL_Merge\\LL_Merge",
-    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge",
-    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge\\Classes"
+    "\\Challenges\\LL_Merge\\LL_Merge\\LLMergeTest",
+    "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge"
   ],
-  "SelectedNode": "\\Challenges\\LL_Merge\\LL_Merge\\LL_Merge\\Program.cs",
+  "SelectedNode": "\\Challenges\\LL_Merge",
   "PreviewInSolutionExplorer": false
 }

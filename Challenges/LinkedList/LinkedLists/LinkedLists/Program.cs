@@ -6,7 +6,7 @@ namespace LinkedLists
     {
         static void Main(string[] args)
         {
-            
+			Console.WriteLine("Test string");
 			MakeLL();
 			
         }
@@ -18,16 +18,26 @@ namespace LinkedLists
 		{
 			LinkList LL = new LinkList(new Node(10));
 
-			LL.Add(new Node(15));
-			LL.Add(new Node(20));
-			LL.Add(new Node(25));
-			LL.Add(new Node(30));
+			Node LL1 = new Node(15);
+			Node LL2 = new Node(20);
+			Node LL3 = new Node(25);
+
+			LL.Add(LL1);
+			LL.Add(LL2);
+			LL.Add(LL3);
 			
 
-			LL.Print();
+			Node addMeBefore = new Node(1);
+			Node addMeAfter = new Node(2);
+			
 			LL.Find(25);
-			
-			
+
+			LL.AddBefore(addMeBefore, LL3);
+			LL.AddAfter(addMeAfter, LL2);
+
+			LL.Print();
+
+
 		}
 
 		

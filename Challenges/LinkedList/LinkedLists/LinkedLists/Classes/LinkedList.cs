@@ -37,36 +37,6 @@ namespace LinkedLists
 		}
 
 		/// <summary>
-		/// method to add new node before currently existing node
-		/// </summary>
-		/// <param name="newNode">new node to add</param>
-		/// <param name="existingNode">node to add new node before</param>
-		public void AddBefore(Node newNode, Node existingNode)
-		{
-			//reset current to beginning of LL
-			Current = Head;
-
-			if (Head.Value == existingNode.Value)
-			{
-				Add(newNode);
-				return;
-			}
-
-			while (Current.Next != null)
-			{
-				
-
-				if(Current.Next.Value == existingNode.Value)
-				{
-					newNode.Next = existingNode;
-					Current.Next = newNode;
-					return;
-				}
-				Current = Current.Next;
-			}
-		}
-
-		/// <summary>
 		/// method to print linked list to console
 		/// </summary>
 		public void Print()
@@ -144,14 +114,49 @@ namespace LinkedLists
 		public void AddAfter(Node newNode, Node existingNode)
 		{
 			Current = Head;
+
+			if(Head.Value == existingNode.Value)
+			{
+				Add(newNode);
+				return;
+			}
+
 			while(Current.Next != null)
 			{
-				if (Current.Next.Value == existingNode.Next.Value)
+				if (Current.Next.Value == existingNode.Value)
 				{
 					newNode.Next = Current.Next;
-					existingNode.Next = newNode;
+					Current.Next = newNode;
 				}
-				Current.Next = newNode;
+				Current = Current.Next;
+			}
+		}
+
+		/// <summary>
+		/// method to add new node before currently existing node
+		/// </summary>
+		/// <param name="newNode">new node to add</param>
+		/// <param name="existingNode">node to add new node before</param>
+		public void AddBefore(Node newNode, Node existingNode)
+		{
+			//reset current to beginning of LL
+			Current = Head;
+
+			if (Head.Value == existingNode.Value)
+			{
+				Add(newNode);
+				return;
+			}
+
+			while (Current.Next != null)
+			{
+				if (Current.Next.Value == existingNode.Value)
+				{
+					newNode.Next = Current.Next;
+					Current.Next = newNode;
+					return;
+				}
+				Current = Current.Next;
 			}
 		}
 	}
