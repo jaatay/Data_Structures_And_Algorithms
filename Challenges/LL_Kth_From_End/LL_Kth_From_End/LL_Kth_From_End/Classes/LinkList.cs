@@ -75,26 +75,32 @@ public class LinkList
 
 				while (Runner.Next != null)
 				{
-					counter++;
 					Runner = Runner.Next;
-
+					counter++;
+					
 					if (counter > k)
 					{
 						Current = Current.Next;
 					}
 
+					
 				}
 
+				if (k > counter)
+				{
+					throw new IndexOutOfRangeException();
+				}
 				Console.WriteLine($"Found node {Current.Value} ");
 				return Current;
 			}
 			catch (IndexOutOfRangeException)
 			{
 				Console.WriteLine("Value not found");
+				return null;
 				
 			}
 
-			return null;
+			
 		}
 		
 
