@@ -30,27 +30,13 @@ namespace StackAndQ
 		/// method to add new node in front of list, sets as head node
 		/// </summary>
 		/// <param name="node"></param>
-		public void Add(Node node)
+		public void Push(Node node)
 		{
 			node.Next = Head;
 			Head = node;
 			Current = Head;
 		}
 
-		/// <summary>
-		/// method to add node to end of list
-		/// </summary>
-		/// <param name="newNode">new node to add</param>
-		public void Push(Node newNode)
-		{
-			Current = Head;
-			while (Current.Next != null)
-			{
-				Current = Current.Next;
-			}
-
-			Current.Next = newNode;
-		}
 
 		/// <summary>
 		/// method to add node to end of list

@@ -43,12 +43,8 @@ namespace StackAndQ
 			public void Enqueue(Node newNode)
 			{
 				Current = Head;
-				while (Current.Next != null)
-				{
-					Current = Current.Next;
-				}
-
-				Current.Next = newNode;
+				newNode.Next = Current;
+				Head = newNode;
 			}
 
 			/// <summary>
@@ -58,7 +54,13 @@ namespace StackAndQ
 			public void Dequeue()
 			{
 				Current = Head;
-				Head = Current.Next;
+
+				while(Current.Next.Next != null)
+				{
+				Current = Current.Next;
+				}
+
+			Current.Next = null;
 
 			}
 
@@ -68,25 +70,27 @@ namespace StackAndQ
 			/// <param name="newNode">new node to add</param>
 			public Node Peek()
 			{
-
 				try
 				{
-					Current = Head;
-					while (Current.Next != null)
-					{
-						Current = Current.Next;
-					}
 
 					if (Head == null)
 					{
 						throw new IndexOutOfRangeException();
 					}
-					Console.WriteLine($"Found {Head.Value}");
-					return Head;
+
+					Current = Head;
+						while (Current.Next.Next != null)
+						{
+							Current = Current.Next;
+						}
+
+					
+						Console.WriteLine($"Found {Current.Next.Value}");
+						return Current.Next;
 				}
 				catch (IndexOutOfRangeException)
 				{
-					Console.WriteLine("Stack is empty.");
+					Console.WriteLine("Queue is empty.");
 					return null;
 				}
 			}
@@ -94,17 +98,17 @@ namespace StackAndQ
 			/// <summary>
 			/// method to print linked list to console
 			/// </summary>
-			public void PrintStack()
+			public void PrintQ()
 			{
 				Current = Head;
 
 				while (Current.Next != null)
 				{
-					Console.Write($"{Current.Value} ==>");
+					Console.Write($"{Current.Value}-->");
 					Current = Current.Next;
 				}
 
-				Console.Write($"{Current.Value} ==> NULL");
+				Console.Write($"{Current.Value}--> NULL");
 				Console.WriteLine("");
 			}
 
