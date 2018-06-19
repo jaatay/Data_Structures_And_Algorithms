@@ -2,15 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\BinarySearch\\BinarySearch",
-    "\\Challenges\\LinkedList\\LinkedLists",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists",
-    "\\Challenges\\LinkedList\\LinkedLists\\LinkedLists\\Classes",
+    "\\Challenges\\QueueWithStacks",
+    "\\Challenges\\Stack_and_Queue",
     "\\Challenges\\Stack_and_Queue\\StackAndQ",
     "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ",
     "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\Classes",
     "\\Data_Structures"
   ],
-  "SelectedNode": "\\Challenges",
+  "SelectedNode": "\\Challenges\\QueueWithStacks",
   "PreviewInSolutionExplorer": false
 }
