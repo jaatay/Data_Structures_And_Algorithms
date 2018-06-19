@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections;
+using System.Text;
 
 namespace QueueWithStacks
 {
-	public class Stack
+	public class Stacks
 	{
 		/// <summary>
 		/// gets and sets the value of head
@@ -14,14 +16,17 @@ namespace QueueWithStacks
 		/// </summary>
 		public Node Current { get; set; }
 
+
+
 		/// <summary>
 		/// method to identify a node
 		/// </summary>
 		/// <param name="node">input paramter of node to set as head and current</param>
-		public Stack(Node node)
+		public Stacks(Node node)
 		{
 			Head = node;
 			Current = node;
+
 		}
 
 		/// <summary>

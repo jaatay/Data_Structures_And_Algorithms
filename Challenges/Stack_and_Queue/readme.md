@@ -40,5 +40,5 @@ Dequeue()
 
 
 ## Solution
-![Stack and Queue whiteboard image](../../Assets/StackAndQ.jpg)
+![Stacks with queues](../../Assets/StackAndQ.jpg)
 ![Stack and queue program screenshot](../../Assets/StackAndQScreen.jpg)

@@ -3,12 +3,15 @@
     "",
     "\\Challenges",
     "\\Challenges\\QueueWithStacks",
+    "\\Challenges\\QueueWithStacks\\QueueWithStacks",
+    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\Classes",
+    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks",
     "\\Challenges\\Stack_and_Queue",
     "\\Challenges\\Stack_and_Queue\\StackAndQ",
     "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ",
     "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\Classes",
-    "\\Data_Structures"
+    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\obj"
   ],
-  "SelectedNode": "\\Challenges\\QueueWithStacks",
+  "SelectedNode": "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks.sln",
   "PreviewInSolutionExplorer": false
 }
