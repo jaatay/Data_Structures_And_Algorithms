@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Text;
 
 namespace QueueWithStacks
 { 
@@ -13,6 +15,8 @@ namespace QueueWithStacks
 		/// gets and sets the next property of a node
 		/// </summary>
 		public Node Next { get; set; }
+
+		public Node Temp { get; set; }
 
 		/// <summary>
 		/// sets the valute of a node
