@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assets",
     "\\Challenges",
     "\\Challenges\\QueueWithStacks",
     "\\Challenges\\QueueWithStacks\\QueueWithStacks",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\Classes",
     "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks",
+    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks\\Classes",
     "\\Challenges\\Stack_and_Queue",
     "\\Challenges\\Stack_and_Queue\\StackAndQ",
-    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ",
-    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\Classes",
-    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ\\obj"
+    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ"
   ],
-  "SelectedNode": "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks.sln",
+  "SelectedNode": "\\Assets\\StackAndQScreen.jpg",
   "PreviewInSolutionExplorer": false
 }
