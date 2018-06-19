@@ -6,7 +6,6 @@ namespace QueueWithStacks
 {
 	public class Queue
 	{
-
 		/// <summary>
 		/// gets and sets the value of head
 		/// </summary>

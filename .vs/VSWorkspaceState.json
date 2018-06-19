@@ -1,16 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assets",
     "\\Challenges",
-    "\\Challenges\\QueueWithStacks",
     "\\Challenges\\QueueWithStacks\\QueueWithStacks",
     "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks",
     "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks\\Classes",
-    "\\Challenges\\Stack_and_Queue",
-    "\\Challenges\\Stack_and_Queue\\StackAndQ",
-    "\\Challenges\\Stack_and_Queue\\StackAndQ\\StackAndQ"
+    "\\Data_Structures"
   ],
-  "SelectedNode": "\\Assets\\StackAndQScreen.jpg",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }

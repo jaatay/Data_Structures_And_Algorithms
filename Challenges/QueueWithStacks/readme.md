@@ -7,8 +7,11 @@ This challenge takes two stacks and replicates queue methods using push and pop.
 
 Enqueue Example:
 stack 1 
+
 1 -- 2 -- 3
+
 stack 2
+
 4 -- 5 -- 6
 
 new node 7
@@ -16,9 +19,13 @@ new node 7
 Enqueue output: 7 -- 4 -- 5 -- 6 -- 1 -- 2 -- 3
 
 Dequeue Example
+
 stack 1
+
 1 -- 2 -- 3
+
 stack 2
+
 4 -- 5 -- 6
 
 Dequeue Output: 1 -- 2 -- 3 -- 4 -- 5
