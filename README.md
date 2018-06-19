@@ -12,6 +12,6 @@
 
 6. [Linked List Merge](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LL_Merge/LL_Merge)
 
-7. [Stack and Queue](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/Stack_and_Queue)
+7. [Stack and Queue](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Stack_and_Queue)
 
 8. [Queue with Stacks](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/QueueWithStacks)
