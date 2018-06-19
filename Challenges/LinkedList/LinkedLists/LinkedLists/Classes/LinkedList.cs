@@ -126,7 +126,7 @@ namespace LinkedLists
 				if (Current.Next.Value == existingNode.Value)
 				{
 					newNode.Next = Current.Next;
-					Current.Next = newNode;
+					Current = newNode;
 				}
 				Current = Current.Next;
 			}
