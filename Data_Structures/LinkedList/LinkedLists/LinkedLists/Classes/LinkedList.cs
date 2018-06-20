@@ -117,16 +117,20 @@ namespace LinkedLists
 
 			if(Head.Value == existingNode.Value)
 			{
-				Add(newNode);
+
+				newNode.Next = Current.Next;
+				Current.Next = newNode;
 				return;
 			}
 
 			while(Current.Next != null)
 			{
-				if (Current.Next.Value == existingNode.Value)
+				if (Current == existingNode)
 				{
+				
 					newNode.Next = Current.Next;
-					Current = newNode;
+					Current.Next = newNode;
+					return;
 				}
 				Current = Current.Next;
 			}
