@@ -25,18 +25,19 @@ namespace LinkedLists
 			LL.Add(LL1);
 			LL.Add(LL2);
 			LL.Add(LL3);
-			
+
+			LL.Print();
 
 			Node addMeBefore = new Node(1);
 			Node addMeAfter = new Node(2);
-			
+
 			LL.Find(25);
 
 			LL.AddBefore(addMeBefore, LL3);
 			LL.AddAfter(addMeAfter, LL2);
 
 			LL.Print();
-
+			//expected output 1-- 25 -- 20 -- 2 -- 15 -- 10
 
 		}
 
