@@ -60,6 +60,12 @@ namespace LL_Merge
 			Console.WriteLine("");
 		}
 
+		/// <summary>
+		/// method to merge two linked lists in alternating order
+		/// </summary>
+		/// <param name="LL1">first linked list entered as parameter</param>
+		/// <param name="LL2">second linked list entered as parameter</param>
+		/// <returns>returns value of merged list head</returns>
 		public Node Merge(LinkList LL1, LinkList LL2)
 		{
 			refNode1 = LL1.Head;
