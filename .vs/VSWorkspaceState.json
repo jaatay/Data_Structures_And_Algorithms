@@ -2,11 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks\\Classes",
-    "\\Data_Structures"
+    "\\Data_Structures",
+    "\\Data_Structures\\LinkedList\\LinkedLists"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
