@@ -15,3 +15,5 @@
 7. [Stack and Queue](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Stack_and_Queue)
 
 8. [Queue with Stacks](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/QueueWithStacks)
+
+9. [Animal Shelter](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/AnimalShelter)
