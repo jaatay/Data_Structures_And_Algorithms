@@ -17,3 +17,5 @@
 8. [Queue with Stacks](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/QueueWithStacks)
 
 9. [Animal Shelter](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/AnimalShelter)
+
+10. [Multi Bracket Validation](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/MultiBracketValidation)
