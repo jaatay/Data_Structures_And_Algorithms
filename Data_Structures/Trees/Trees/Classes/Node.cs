@@ -1,6 +1,7 @@
 ﻿using System;
 
 namespace Trees { 
+
 	public class Node
 	{
 			/// <summary>
