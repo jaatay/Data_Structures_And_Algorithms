@@ -2,18 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\AnimalShelter",
-    "\\Challenges\\AnimalShelter\\AnimalShelter",
-    "\\Challenges\\AnimalShelter\\AnimalShelter\\AnimalShelter",
-    "\\Challenges\\AnimalShelter\\AnimalShelter\\AnimalShelter\\Classes",
-    "\\Challenges\\QueueWithStacks",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks",
-    "\\Challenges\\QueueWithStacks\\QueueWithStacks\\QueueWithStacks\\Classes",
+    "\\Data_Structures",
+    "\\Data_Structures\\LinkedList\\LinkedLists",
+    "\\Data_Structures\\LinkedList\\LinkedLists\\LinkedLists",
     "\\Data_Structures\\Stack_and_Queue",
-    "\\Data_Structures\\Stack_and_Queue\\StackAndQ",
-    "\\Data_Structures\\Stack_and_Queue\\StackAndQ\\StackAndQ",
-    "\\Data_Structures\\Stack_and_Queue\\StackAndQ\\StackAndQ\\Classes"
+    "\\Data_Structures\\Trees",
+    "\\Data_Structures\\Trees\\Trees",
+    "\\Data_Structures\\Trees\\Trees\\bin",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\Data_Structures_And_Algorithms",
+    "\\Local settings (.vs)\\Data_Structures_And_Algorithms\\v15"
   ],
-  "SelectedNode": "\\Challenges\\QueueWithStacks\\readme.md",
+  "SelectedNode": "\\Data_Structures\\Trees\\Trees",
   "PreviewInSolutionExplorer": false
 }

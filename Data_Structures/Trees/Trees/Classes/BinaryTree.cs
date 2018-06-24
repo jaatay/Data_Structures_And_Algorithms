@@ -1,27 +1,65 @@
 ﻿using System;
+using System.Collections;
+
+
 
 namespace Trees
 {
 
 	public class BinaryTree
+
+
 	{
-		public void PreOrder(Node root)
+		public void PreOrder(Node node)
 		{
+			Console.WriteLine(node.Value);
+
+			if(node.LeftChild != null)
+			{
+				PreOrder(node.Leftchild);
+			}
+
+			if(node.RightChild != null)
+			{
+				PreOrder(node.RightChild);
+			}
+		}
+
+		public void InOrder(Node node)
+		{
+			if(node.LeftChild != null)
+			{
+				InOrder(node.LeftChild);
+			}
+
+			Console.WriteLine(node.Value);
+
+			if(node.RightChild != null)
+			{
+				InOrder(node.RightChild);
+			}
 
 		}
 
-		public void InOrder(Node root)
+		public void PostOrder(Node node)
 		{
+			if(node.LeftChild != null)
+			{
+				PostOrder(node.Leftchild);
+			}
 
+			if(node.RightChild != null)
+			{
+				PostOrder(node.RightChild);
+			}
+
+			Console.WriteLine(node.Value);
 		}
 
-		public void PostOrder(Node root)
+		public void BreadthFirst(Node node)
 		{
-
-		}
-
-		public void BreadthFirst(Node root)
-		{
+			Queue<Node> breadth = new Queue<Node><Node>();
+			breadth.Enqueue(root);
 
 		}
 
