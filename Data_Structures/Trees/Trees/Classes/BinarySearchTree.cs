@@ -16,6 +16,7 @@ namespace Trees
 		public bool Search(Node node, int value)
 		{
 			Queue<Node> breadth = new Queue<Node>();
+
 			breadth.Enqueue(node);
 			Console.WriteLine($"Searching for node value: {value}");
 			try
