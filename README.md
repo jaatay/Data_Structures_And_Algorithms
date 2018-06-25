@@ -19,3 +19,5 @@
 9. [Animal Shelter](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/AnimalShelter)
 
 10. [Multi Bracket Validation](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/MultiBracketValidation)
+
+11. [Binary Tree and Binary Search Tree](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Trees)
