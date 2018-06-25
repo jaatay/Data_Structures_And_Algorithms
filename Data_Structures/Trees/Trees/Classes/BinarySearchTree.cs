@@ -18,7 +18,7 @@ namespace Trees
 				{
 					Node front = breadth.Dequeue();
 
-					if (front.LeftChild.Value == value || front.RightChild.Value == value)
+					if (front.Value == value)
 					{
 						Console.WriteLine($"Found Node: {value}");
 						return true;
@@ -41,50 +41,56 @@ namespace Trees
 			}
 		}
 
-		public void Add(Node root, Node newNode)
+		public Node Add(Node root, Node newNode)
 		{
 			if(root == null)
 			{
 				root = newNode;
+				return newNode;
 			}
 
 			Console.WriteLine($"{root.Value}");
 			Console.WriteLine("||");
 
-			if(newNode.Value < root.Value)
-			{
-				if(root.LeftChild != null)
+				if (newNode.Value < root.Value)
 				{
-					Console.WriteLine("<--");
-					
-					Add(root.LeftChild, newNode);
-				}
-				else
-				{
-					Console.WriteLine("<--");
-					root.LeftChild = newNode;
-					Console.WriteLine(newNode.Value);
-				}
-			}
+					if (root.LeftChild != null)
+					{
+						Console.WriteLine("<--");
 
-			if(newNode.Value > root.Value)
-			{
-				if(root.RightChild != null)
-				{
-					Console.WriteLine("-->");
-					
-					Add(root.RightChild, newNode);
-					
+						Add(root.LeftChild, newNode);
+					}
+					else
+					{
+						Console.WriteLine("<--");
+						root.LeftChild = newNode;
+						Console.WriteLine(newNode.Value);
+						
+					}
+					return newNode;
 				}
-				else
-				{
-					Console.WriteLine("-->");
-					root.RightChild = newNode;
-					Console.WriteLine(newNode.Value);
-					
-				}
-			}
 
+				if (newNode.Value > root.Value)
+				{
+					if (root.RightChild != null)
+					{
+						Console.WriteLine("-->");
+
+						Add(root.RightChild, newNode);
+
+					}
+					else
+					{
+						Console.WriteLine("-->");
+						root.RightChild = newNode;
+						Console.WriteLine(newNode.Value);
+						
+
+					}
+					return newNode;
+				}
+
+			return root;
 		}
 	}
 }
