@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections;
 
 namespace Trees { 
+
 	public class Node
 	{
 			/// <summary>
@@ -13,7 +15,9 @@ namespace Trees {
 			/// </summary>
 			public Node LeftChild { get; set; }
 
-			public Node Rightchild { get; set; }
+			public Node RightChild { get; set; }
+
+			public Node Root { get; set; }
 
 			/// <summary>
 			/// sets the valute of a node

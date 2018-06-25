@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
+<<<<<<< HEAD
     "\\Challenges\\QueueWithStacks",
     "\\Data_Structures",
     "\\Data_Structures\\LinkedList",
@@ -13,5 +14,19 @@
     "\\Data_Structures\\Trees\\Trees\\Classes"
   ],
   "SelectedNode": "\\Data_Structures\\Trees\\readme.md",
+=======
+    "\\Data_Structures",
+    "\\Data_Structures\\LinkedList\\LinkedLists",
+    "\\Data_Structures\\LinkedList\\LinkedLists\\LinkedLists",
+    "\\Data_Structures\\Stack_and_Queue",
+    "\\Data_Structures\\Trees",
+    "\\Data_Structures\\Trees\\Trees",
+    "\\Data_Structures\\Trees\\Trees\\bin",
+    "\\Local settings (.vs)",
+    "\\Local settings (.vs)\\Data_Structures_And_Algorithms",
+    "\\Local settings (.vs)\\Data_Structures_And_Algorithms\\v15"
+  ],
+  "SelectedNode": "\\Data_Structures\\Trees\\Trees",
+>>>>>>> 266b864a80ba381bb7825ececf6e6a4f015cbbfc
   "PreviewInSolutionExplorer": false
 }
