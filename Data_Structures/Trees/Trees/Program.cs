@@ -73,6 +73,8 @@ namespace Trees
 			Console.WriteLine("Adding More node");
 			searchTree.Add(nodeA, nodeG);
 
+			Console.WriteLine("Finding Node");
+			searchTree.Search(nodeA, 7);
 		}
     }
 
