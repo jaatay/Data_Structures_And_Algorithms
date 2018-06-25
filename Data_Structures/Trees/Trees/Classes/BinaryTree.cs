@@ -8,7 +8,10 @@ namespace Trees
 
 	public class BinaryTree
 	{
-
+		/// <summary>
+		/// method to order a binary tree 
+		/// </summary>
+		/// <param name="node">parmeter to set the root node where the traversal begins</param>
 		public void PreOrder(Node node)
 		{
 			Console.WriteLine(node.Value);
@@ -24,6 +27,10 @@ namespace Trees
 			}
 		}
 
+		/// <summary>
+		/// method to traverse a tree using the In Order technique
+		/// </summary>
+		/// <param name="node">input node to set as root of traversal</param>
 		public void InOrder(Node node)
 		{
 			if(node.LeftChild != null)
@@ -40,6 +47,10 @@ namespace Trees
 
 		}
 
+		/// <summary>
+		/// method to traverse using the post order technique
+		/// </summary>
+		/// <param name="node">input node to set as root of traversal</param>
 		public void PostOrder(Node node)
 		{
 			if(node.LeftChild != null)
@@ -55,6 +66,10 @@ namespace Trees
 			Console.WriteLine(node.Value);
 		}
 
+		/// <summary>
+		/// method to traverse using Bread-First
+		/// </summary>
+		/// <param name="node">input node to set as root of traversal</param>
 		public void BreadthFirst(Node node)
 		{
 			Queue<Node> breadth = new Queue<Node>();
@@ -77,6 +92,12 @@ namespace Trees
 
 		}
 
+		/// <summary>
+		/// method to search for a node in a binary tree
+		/// </summary>
+		/// <param name="node">input node to set as root of traversal</param>
+		/// <param name="value">input value of node being searched for</param>
+		/// <returns>boolean value of true if node is found, false if not found</returns>
 		public bool Search(Node node, int value)
 		{
 			Queue<Node> breadth = new Queue<Node>();

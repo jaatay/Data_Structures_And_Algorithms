@@ -7,6 +7,12 @@ namespace Trees
 {
 	public class BinarySearchTree
 	{
+		/// <summary>
+		/// method to search for a node containing a specific value
+		/// </summary>
+		/// <param name="node">node type which establishes the root to begin the search from</param>
+		/// <param name="value">integer value of the node being searched for</param>
+		/// <returns>boolean value of whether a node is found or not</returns>
 		public bool Search(Node node, int value)
 		{
 			Queue<Node> breadth = new Queue<Node>();
@@ -41,6 +47,12 @@ namespace Trees
 			}
 		}
 
+		/// <summary>
+		/// method to add nodes to a binary search tree
+		/// </summary>
+		/// <param name="root">the root node, will reflect the root of where the search begins, and the new root when called recursively</param>
+		/// <param name="newNode">new node being added to the tree</param>
+		/// <returns>returns a the node successfully added, or root if the node is added to a blank tree. method declared with a return type for testing purposes</returns>
 		public Node Add(Node root, Node newNode)
 		{
 			if(root == null)
