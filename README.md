@@ -21,3 +21,5 @@
 10. [Multi Bracket Validation](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/MultiBracketValidation)
 
 11. [Trees](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Trees)
+
+12. [FizzBuzzTree] (https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/FizzBuzzTree)
