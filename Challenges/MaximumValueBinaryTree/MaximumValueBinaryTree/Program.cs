@@ -12,6 +12,9 @@ namespace MaximumValueBinaryTree
 			Console.ReadLine();
         }
 
+		/// <summary>
+		/// method to instantiate a tree and call the Max Value function
+		/// </summary>
 		public static void TestTree()
 		{
 			BinaryTree thisTree = new BinaryTree();
