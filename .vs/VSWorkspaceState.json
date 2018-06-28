@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Challenges"
+    "\\Assets",
+    "\\Challenges",
+    "\\Challenges\\FizzBuzzTree",
+    "\\Challenges\\FizzBuzzTree\\FizzBuzzTree",
+    "\\Challenges\\FizzBuzzTree\\FizzBuzzTree\\Classes",
+    "\\Data_Structures",
+    "\\Data_Structures\\Trees",
+    "\\Data_Structures\\Trees\\Trees",
+    "\\Data_Structures\\Trees\\Trees\\Classes"
   ],
-  "SelectedNode": "\\Challenges",
+  "SelectedNode": "\\Challenges\\FizzBuzzTree\\FizzBuzzTree.sln",
   "PreviewInSolutionExplorer": false
 }
