@@ -18,12 +18,16 @@ namespace MaximumValueBinaryTree
 		{
 			Queue<Node> bread = new Queue<Node>();
 			bread.Enqueue(node);
+
+			//temp int to hold max value
 			int tempInt = 0;
 
 			while (bread.TryPeek(out node))
 			{
+				
 				Node front = bread.Dequeue();
 				
+				//condition comparing the temp value to the front node value
 				if (tempInt < front.Value)
 				{
 					tempInt = front.Value;
@@ -39,7 +43,7 @@ namespace MaximumValueBinaryTree
 				{
 					bread.Enqueue(front.RightChild);
 				}
-				//extra line so node old and new values end up side by side
+				
 				
 			}
 			Console.WriteLine(tempInt);
