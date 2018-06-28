@@ -23,3 +23,5 @@
 11. [Trees](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Trees)
 
 12. [FizzBuzzTree](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/FizzBuzzTree)
+
+13. [MaxValueTree](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/MaximumValueBinaryTree)
