@@ -18,6 +18,9 @@ namespace Graphs
 			Console.ReadLine();
         }
 
+		/// <summary>
+		/// method to instantiate graph, nodes, and test Graph class methods
+		/// </summary>
 		public static void TestMethods()
 		{
 			Graph newGraph = new Graph();
@@ -145,10 +148,19 @@ namespace Graphs
 
 			Node nodeF = new Node("F");
 
-			//add node A neighbors
+			Node nodeG = new Node("G");
+
+			//before adding node A neighbors
 			nodeA.Neighbor.Add(nodeB);
 			nodeA.Neighbor.Add(nodeD);
-
+			Console.WriteLine("Before adding a node");
+			newGraph.GetNeighbors(nodeA);
+			
+			//add node A neighbors
+			newGraph.AddEdges(nodeA, nodeB);
+			Console.WriteLine("After adding a node");
+			Console.WriteLine(newGraph.GetNeighbors(nodeA));
+			
 			//add node B neighbors
 			nodeB.Neighbor.Add(nodeA);
 			nodeB.Neighbor.Add(nodeC);

@@ -8,7 +8,6 @@ namespace Graphs
 	public class Graph
 	{
 
-
 		public Node Root { get; set; }
 
 		public List<Node> ListNodes { get; set; }
@@ -18,7 +17,7 @@ namespace Graphs
 		/// </summary>
 		/// <param name="root">root node to add from</param>
 		/// <param name="destination">destination node to add to</param>
-		public void AddNeighbor(Node root, Node destination)
+		public void AddEdges(Node root, Node destination)
 		{
 			root.Neighbor.Add(destination);
 			destination.Neighbor.Add(root);
