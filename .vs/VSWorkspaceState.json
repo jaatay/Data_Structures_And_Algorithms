@@ -2,13 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\FizzBuzzTree\\FizzBuzzTree",
-    "\\Challenges\\MaximumValueBinaryTree\\MaximumValueBinaryTree",
-    "\\Challenges\\MaximumValueBinaryTree\\MaximumValueBinaryTree\\Classes",
     "\\Data_Structures",
     "\\Data_Structures\\Graphs",
     "\\Data_Structures\\Graphs\\Graphs",
-    "\\Data_Structures\\Graphs\\Graphs\\Classes",
+    "\\Data_Structures\\Graphs\\GraphsTest",
     "\\Data_Structures\\Trees"
   ],
   "SelectedNode": "\\Data_Structures\\Graphs\\Graphs.sln",
