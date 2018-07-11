@@ -27,3 +27,5 @@
 13. [MaxValueTree](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/MaximumValueBinaryTree)
 
 14. [Graph](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Graphs)
+
+15. [Graph Get Edges](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/GetEdgesGraph)
