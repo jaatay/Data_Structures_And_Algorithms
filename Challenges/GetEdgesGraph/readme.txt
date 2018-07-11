@@ -7,7 +7,7 @@ This challenge was to implement a graph in the layout of several cities with fli
 
 The graph relationship and algorithm visualized in this program looks like the below image:
 
-![Graph image](../../Assets/GraphGetEdge.jpg)
+![whiteboard image](../../Assets/GraphGetEdge.jpg)
 
 ##How to use
 This is a console app. The only user input could be to adjust the root and destination node values. Currently the program doesn't run, since I tried to implement it using two lists instead of a dictionary, thereby discovering the hype behind dictionaries. If it did work, a user would just have to navigate to the project in Visual Studio and run the program.cs file. 
