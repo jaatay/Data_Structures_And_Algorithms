@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
+    "\\Challenges\\FizzBuzzTree",
     "\\Challenges\\GetEdgesGraph",
-    "\\Challenges\\GetEdgesGraph\\GetEdgesGraph",
     "\\Challenges\\GetEdgesGraph\\GetEdgesGraph\\Classes",
     "\\Data_Structures",
     "\\Data_Structures\\Graphs",
@@ -11,6 +11,6 @@
     "\\Data_Structures\\Graphs\\GraphsTest",
     "\\Data_Structures\\Graphs\\Graphs\\Classes"
   ],
-  "SelectedNode": "\\Data_Structures\\Graphs\\Graphs\\Program.cs",
+  "SelectedNode": "\\Challenges\\FizzBuzzTree\\readme.md",
   "PreviewInSolutionExplorer": false
 }
