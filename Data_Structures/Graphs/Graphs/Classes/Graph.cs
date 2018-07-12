@@ -38,6 +38,7 @@ namespace Graphs
 			{
 				Node front = breadth.Dequeue();
 				order.Add(front);
+				front.Visited = true;
 
 				foreach (Node child in front.Neighbor)
 				{
@@ -116,6 +117,7 @@ namespace Graphs
 			{
 				Node front = breadth.Dequeue();
 				order.Add(front);
+				front.Visited = true;
 
 				foreach (Node child in front.Neighbor)
 				{
