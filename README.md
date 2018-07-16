@@ -29,3 +29,5 @@
 14. [Graph](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/Graphs)
 
 15. [Graph Get Edges](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/GetEdgesGraph)
+
+16. [Hash Table](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/HashTable)
