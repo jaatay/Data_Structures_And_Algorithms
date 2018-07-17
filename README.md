@@ -31,3 +31,5 @@
 15. [Graph Get Edges](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/GetEdgesGraph)
 
 16. [Hash Table](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/HashTable)
+
+17. [Repeated Word](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/RepeatedWord)
