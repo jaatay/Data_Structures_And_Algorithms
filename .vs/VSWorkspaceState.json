@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assets",
     "\\Challenges",
-    "\\Challenges\\FizzBuzzTree",
-    "\\Data_Structures",
-    "\\Data_Structures\\HashTable",
-    "\\Data_Structures\\HashTable\\HashTable",
-    "\\Data_Structures\\HashTable\\HashTable\\Classes",
-    "\\Data_Structures\\LinkedList",
-    "\\Data_Structures\\LinkedList\\LinkedLists",
-    "\\Data_Structures\\LinkedList\\LinkedLists\\LinkedLists",
-    "\\Data_Structures\\LinkedList\\LinkedLists\\LinkedLists\\Classes"
+    "\\Challenges\\FindIslands",
+    "\\Challenges\\FindIslands\\FindIslands",
+    "\\Challenges\\FindIslands\\FindIslands\\Classes",
+    "\\Challenges\\GetEdgesGraph",
+    "\\Challenges\\MultiBracketValidation",
+    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation",
+    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation"
   ],
-  "SelectedNode": "\\Data_Structures\\Graphs\\readme.md",
+  "SelectedNode": "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
