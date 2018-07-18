@@ -3,14 +3,13 @@
     "",
     "\\Assets",
     "\\Challenges",
-    "\\Challenges\\FindIslands",
     "\\Challenges\\FindIslands\\FindIslands",
     "\\Challenges\\FindIslands\\FindIslands\\Classes",
     "\\Challenges\\GetEdgesGraph",
-    "\\Challenges\\MultiBracketValidation",
     "\\Challenges\\MultiBracketValidation\\MultiBracketValidation",
-    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation"
+    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation",
+    "\\Challenges\\RepeatedWord"
   ],
-  "SelectedNode": "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation\\Program.cs",
+  "SelectedNode": "\\Challenges\\GetEdgesGraph\\readme.md",
   "PreviewInSolutionExplorer": false
 }
