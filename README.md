@@ -33,3 +33,5 @@
 16. [Hash Table](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/HashTable)
 
 17. [Repeated Word](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/RepeatedWord)
+
+18. [Tree Intersection](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/TreeIntersection)
