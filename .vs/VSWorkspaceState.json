@@ -1,15 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assets",
     "\\Challenges",
-    "\\Challenges\\FindIslands\\FindIslands",
-    "\\Challenges\\FindIslands\\FindIslands\\Classes",
     "\\Challenges\\GetEdgesGraph",
-    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation",
-    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation",
-    "\\Challenges\\RepeatedWord"
+    "\\Challenges\\RepeatedWord",
+    "\\Challenges\\TreeIntersection"
   ],
-  "SelectedNode": "\\Challenges\\GetEdgesGraph\\readme.md",
+  "SelectedNode": "\\Challenges\\RepeatedWord\\readme.md",
   "PreviewInSolutionExplorer": false
 }
