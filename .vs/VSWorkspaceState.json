@@ -1,11 +1,24 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Assets",
     "\\Challenges",
+<<<<<<< HEAD
+    "\\Challenges\\FindIslands",
+    "\\Challenges\\FindIslands\\FindIslands",
+    "\\Challenges\\FindIslands\\FindIslands\\Classes",
+    "\\Challenges\\GetEdgesGraph",
+    "\\Challenges\\GetEdgesGraph\\GetEdgesGraph",
+    "\\Challenges\\GetEdgesGraph\\GetEdgesGraph\\Classes",
+    "\\Data_Structures"
+  ],
+  "SelectedNode": "\\Challenges\\FindIslands\\FindIslands\\Program.cs",
+=======
     "\\Challenges\\GetEdgesGraph",
     "\\Challenges\\RepeatedWord",
     "\\Challenges\\TreeIntersection"
   ],
   "SelectedNode": "\\Challenges\\RepeatedWord\\readme.md",
+>>>>>>> master
   "PreviewInSolutionExplorer": false
 }
