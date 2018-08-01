@@ -37,3 +37,5 @@
 18. [Tree Intersection](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/TreeIntersection)
 
 19. [Left Join](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LeftJoin)
+
+20. [Quick Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/QuickSort)
