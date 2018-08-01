@@ -38,6 +38,8 @@
 
 19. [Left Join](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/LeftJoin)
 
-20. [Insertion Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Data_Structures/InsertionSort)
+20. [Insertion Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Sorting_Algorithms/InsertionSort)
 
-21. [Quick Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Challenges/QuickSort)
+21. [Quick Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Sorting_Algorithms/QuickSort)
+
+22. [Merge Sort](https://github.com/jaatay/Data_Structures_And_Algorithms/tree/master/Sorting_Algorithms/MergeSort)
