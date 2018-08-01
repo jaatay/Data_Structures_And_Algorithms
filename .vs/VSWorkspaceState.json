@@ -3,11 +3,11 @@
     "",
     "\\Assets",
     "\\Challenges",
-    "\\Challenges\\FizzBuzzTree",
-    "\\Challenges\\LeftJoin",
-    "\\Challenges\\QuickSort",
-    "\\Challenges\\TreeIntersection"
+    "\\Challenges\\TreeIntersection",
+    "\\Data_Structures",
+    "\\Data_Structures\\InsertionSort",
+    "\\Data_Structures\\Stack_and_Queue"
   ],
-  "SelectedNode": "\\Challenges\\FizzBuzzTree\\readme.md",
+  "SelectedNode": "\\Data_Structures\\Stack_and_Queue\\readme.md",
   "PreviewInSolutionExplorer": false
 }
