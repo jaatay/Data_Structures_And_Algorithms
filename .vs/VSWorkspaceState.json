@@ -3,9 +3,11 @@
     "",
     "\\Assets",
     "\\Challenges",
+    "\\Challenges\\FizzBuzzTree",
     "\\Challenges\\LeftJoin",
+    "\\Challenges\\QuickSort",
     "\\Challenges\\TreeIntersection"
   ],
-  "SelectedNode": "\\Challenges\\LeftJoin\\LeftJoin",
+  "SelectedNode": "\\Challenges\\FizzBuzzTree\\readme.md",
   "PreviewInSolutionExplorer": false
 }
