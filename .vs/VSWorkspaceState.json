@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assets",
-    "\\Challenges",
-    "\\Challenges\\TreeIntersection",
+    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation",
+    "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation",
     "\\Data_Structures",
-    "\\Data_Structures\\InsertionSort",
-    "\\Data_Structures\\Stack_and_Queue"
+    "\\Sorting_Algorithms"
   ],
-  "SelectedNode": "\\Data_Structures\\Stack_and_Queue\\readme.md",
+  "SelectedNode": "\\Sorting_Algorithms",
   "PreviewInSolutionExplorer": false
 }
