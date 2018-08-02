@@ -4,8 +4,9 @@
     "\\Assets",
     "\\Challenges",
     "\\Challenges\\LeftJoin",
-    "\\Challenges\\TreeIntersection"
+    "\\Sorting_Algorithms",
+    "\\Sorting_Algorithms\\QuickSort"
   ],
-  "SelectedNode": "\\Challenges\\LeftJoin\\LeftJoin",
+  "SelectedNode": "\\Challenges\\QuickSort",
   "PreviewInSolutionExplorer": false
 }
