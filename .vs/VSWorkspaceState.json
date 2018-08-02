@@ -1,11 +1,21 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
+    "\\Assets",
+    "\\Challenges",
+    "\\Challenges\\LeftJoin",
+    "\\Sorting_Algorithms",
+    "\\Sorting_Algorithms\\QuickSort"
+  ],
+  "SelectedNode": "\\Challenges\\QuickSort",
+=======
     "\\Challenges\\MultiBracketValidation\\MultiBracketValidation",
     "\\Challenges\\MultiBracketValidation\\MultiBracketValidation\\MultiBracketValidation",
     "\\Data_Structures",
     "\\Sorting_Algorithms"
   ],
   "SelectedNode": "\\Sorting_Algorithms",
+>>>>>>> 6526cd670471b6fd2d898322f8ab1ff53235dd71
   "PreviewInSolutionExplorer": false
 }

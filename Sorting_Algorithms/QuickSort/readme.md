@@ -8,9 +8,9 @@ A comparison is done between the left and right values, where if a value is grea
 
 ## Examples
 
-![Whiteboard image 1]()
+![Whiteboard image 1](../../Assets/QuickSortWhite.jpg)
 
-![Program image]()
+![Program image](../../Assets/QuickSortScreen.jpg)
 
 
 ##Licensing
